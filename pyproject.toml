@@ -1,0 +1,8 @@
+[project]
+name = "snyk-mcp-vulnerable-lab"
+version = "0.1.0"
+description = "Local intentionally vulnerable MCP server for Snyk Agent Scan testing"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp>=1.0.0,<2.0.0",
+]
