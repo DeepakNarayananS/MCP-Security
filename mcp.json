@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "Snyk MCP Vulnerable Lab": {
+      "type": "stdio",
+      "command": "uv",
+      "args": [
+        "run",
+        "--project",
+        "C:\\Users\\DEEPAK\\Documents\\snyk_mcp_vulnerable_lab",
+        "python",
+        "server.py"
+      ]
+    }
+  }
+}
